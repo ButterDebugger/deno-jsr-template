@@ -8,6 +8,12 @@ Click
 [here](https://github.com/new?template_name=deno-jsr-template&template_owner=butterdebugger)
 to create a new repository using this starter template.
 
+Run a single test using Deno:
+
+```console
+$ deno task test
+```
+
 Run automatic tests using Deno:
 
 ```console
@@ -32,6 +38,12 @@ Run automatic bundling and boot a server for web tests:
 $ deno task web
 ```
 
+Lints, formats, and tests your code before publishing it to JSR:
+
+```console
+$ deno task publish
+```
+
 ## Checklist
 
 - [ ] Replace `@debutter/deno-jsr-template` in `deno.json` with the name of your
@@ -41,7 +53,7 @@ $ deno task web
 - [ ] Write code and tests
 - [ ] Add JSDocs to all of your exported declarations
 - [ ] Link GitHub repository on JSR
-- [ ] Commit and deploy to production
+- [ ] Commit and deploy to production with `deno task publish`
 
 ## License
 

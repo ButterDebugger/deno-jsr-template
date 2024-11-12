@@ -52,8 +52,8 @@ $ deno task publish
 - [ ] Add a LICENSE and update the `license` field in `deno.json`
 - [ ] Write code and tests
 - [ ] Add JSDocs to all of your exported declarations
-- [ ] Link GitHub repository on JSR
 - [ ] Commit and deploy to production with `deno task publish`
+- [ ] Link GitHub repository on JSR
 
 ## License
 

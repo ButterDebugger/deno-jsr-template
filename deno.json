@@ -17,7 +17,6 @@
     "publish": {
         "exclude": [
             "test/",
-            "biome.json",
             "dist/",
             "public/",
             "bundle.ts",

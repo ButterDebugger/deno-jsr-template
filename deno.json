@@ -1,6 +1,7 @@
 {
     "name": "@debutter/deno-jsr-template",
     "version": "0.1.0",
+    "license": "UNLICENSED",
     "tasks": {
         "dev": "deno test -A --watch",
         "bundle": "deno run -A bundle.ts",

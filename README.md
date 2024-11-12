@@ -34,12 +34,13 @@ $ deno task web
 
 ## Checklist
 
--   [ ] Replace `@debutter/deno-jsr-template` in `deno.json` with the name of your JSR package
--   [ ] Change this `README.md` to reflect your project
--   [ ] Add a LICENSE and update the `license` field in `deno.json`
--   [ ] Write code and tests
--   [ ] Add JSDocs to all of your exported declarations
--   [ ] Commit and deploy to production
+- [ ] Replace `@debutter/deno-jsr-template` in `deno.json` with the name of your
+      JSR package
+- [ ] Change this `README.md` to reflect your project
+- [ ] Add a LICENSE and update the `license` field in `deno.json`
+- [ ] Write code and tests
+- [ ] Add JSDocs to all of your exported declarations
+- [ ] Commit and deploy to production
 
 ## License
 
